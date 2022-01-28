@@ -21,7 +21,7 @@ foo@bar:~$ git clone https://github.com/firecat53/networkmanager-dmenu.git && cd
 
 ## Installation
 
-After entering the above commands, follow [polybar installation instructions](https://github.com/polybar/polybar#installation), [i3-gaps installation instructions](https://github.com/Airblader/i3/wiki/installation) and compile [i3-radius](https://github.com/terroo/i3-radius) using the build.sh script that is in the submodule.
+After entering the above commands, follow [polybar installation instructions](https://github.com/polybar/polybar#installation), [i3-gaps installation instructions](https://github.com/Airblader/i3/wiki/installation) and compile [i3-radius](https://github.com/terroo/i3-radius) from source using the build.sh script that is in the submodule.
 
 Copy the content of the **config** folder into your ~/.config/ folder, and do the same for **fonts** and **icons**.
 
