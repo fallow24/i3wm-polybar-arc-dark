@@ -26,6 +26,5 @@ After entering the above commands, follow [polybar installation instructions](ht
 Copy the content of the **config** folder into your ~/.config/ folder, and do the same for **fonts** and **icons**.
 
 Reboot, login.
-( Not yet testet :P )
 
 
