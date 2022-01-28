@@ -1,7 +1,8 @@
 # i3wm-polybar-arc-dark
 
 This is a leightweight window manager configuration using i3-gaps, i3-radius, and polybar.
-It is built around the Arc-Dark theme. 
+As is, its configured for the X.org window system. Yet Xresources variables aren't utilized.
+Instead, everything can be modified via the config files.
 
 ![screenshot](https://github.com/fallow24/i3wm-polybar-arc-dark/blob/main/screenshot.png?raw=true)
 
