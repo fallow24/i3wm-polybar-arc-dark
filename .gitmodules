@@ -1,0 +1,12 @@
+[submodule "i3-radius"]
+	path = i3-radius
+	url = https://github.com/terroo/i3-radius.git
+[submodule "arc-theme"]
+	path = arc-theme
+	url = https://github.com/horst3180/arc-theme
+[submodule "i3"]
+	path = i3
+	url = https://github.com/Airblader/i3.git
+[submodule "polybar"]
+	path = polybar
+	url = https://github.com/polybar/polybar.git
